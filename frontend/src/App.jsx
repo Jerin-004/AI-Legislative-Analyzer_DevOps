@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 
-const API_BASE = "http://backend-service:8000/api";
+const API_BASE = "http://a85d9879953ed4f1a9e7f548d5213206-705467200.ap-south-1.elb.amazonaws.com:8000/api";
 
 const palette = {
   saffron: "#FF9933",
